@@ -23,7 +23,7 @@ The script performs the following tasks:
 
 ## How to Run
 
-1. Install the required libraries:  ```bash pip install numpy matplotlib scikit-learn
+1. Install the required libraries: numpy, matplotlib, and scikit-learn
 2. Run the script
 
 
